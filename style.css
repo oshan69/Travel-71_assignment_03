@@ -2,7 +2,7 @@
     position:relative;
     width: 1000px;
     min-height: 900px;
-    background-image: url("./../../assets/hero_bg.png");
+    background-image: url('./assets/hero_bg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -77,7 +77,7 @@ nav{
     backdrop-filter: blur(10px);
     padding: 1rem;
     border-radius: 12px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
     display: none;
     flex-direction: column;
     min-width: 220px;
