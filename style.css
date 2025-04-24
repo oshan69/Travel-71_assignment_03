@@ -1,6 +1,6 @@
 .hero{
     position:relative;
-    width: 1000px;
+    width: 100%;
     min-height: 900px;
     background-image: url('./assets/hero_bg.png');
     background-size: cover;
