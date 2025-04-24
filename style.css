@@ -3,13 +3,16 @@
     width: 100%;
     min-height: 900px;
     background-image: url('./assets/hero_bg.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    overflow: hidden;
-    font-family: var(--ff-poppins);
-    display: flex;
+  
+
+
+
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat; 
+    height: 100vh;  
+    width: 100%;                  
+    position: relative;
 }
 
 .hbtm__img{
